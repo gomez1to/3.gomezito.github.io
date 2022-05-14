@@ -4,7 +4,6 @@
   padding: 0%;
 }
 header {
-  border: solid black;
   height: auto;
   width: 100%;
 
@@ -55,7 +54,7 @@ body {
 .intro {
   display: flex;
   justify-content: center;
-  border: solid red;
+
   color: white;
   width: 60%;
   height: auto;
@@ -64,7 +63,6 @@ body {
 }
 
 .alternativ {
-  border: solid green;
   display: flex;
 }
 
@@ -77,38 +75,36 @@ body {
 .bild {
   width: 200px;
   height: auto;
-  border: solid pink;
+
   margin-left: 13%;
 }
 
 .bild2 {
   width: 150px;
   height: auto;
-  border: solid pink;
+
   margin-left: 12%;
 }
 
 .bild3 {
   width: 150px;
   height: auto;
-  border: solid pink;
 }
 
 .bild4 {
   width: 300px;
   height: auto;
-  border: solid pink;
+
   margin-left: 35%;
 }
 
 .text {
-  border: solid blue;
   font-size: 30px;
 }
 
 .knappar {
   display: flex;
-  border: solid red;
+
   justify-content: center;
   justify-content: space-evenly;
 }
@@ -116,30 +112,26 @@ body {
 .button {
   background-color: purple;
   color: black;
-  border: solid blue;
+
   font-size: 30px;
 }
 
 .textbox {
   display: flex;
-  border: solid red;
 }
 
 .texten {
-  border: solid blue;
   height: 10%;
   width: 60%;
 }
 
 .texten2 {
-  border: solid blue;
   height: 10%;
   width: 60%;
   margin-left: 12%;
 }
 
 .texten3 {
-  border: solid blue;
   height: 10%;
   width: 30%;
   font-size: 30px;
